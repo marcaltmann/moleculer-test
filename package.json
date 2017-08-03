@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/marcaltmann/moleculer-test/issues"
   },
-  "homepage": "https://github.com/marcaltmann/moleculer-test#readme"
+  "homepage": "https://github.com/marcaltmann/moleculer-test#readme",
+  "dependencies": {
+    "moleculer": "^0.8.4"
+  }
 }
